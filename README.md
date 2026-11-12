@@ -10,7 +10,7 @@ npm run build    # type-check and build to dist/
 
 ## Where things are
 
-- `src/content.ts`: all copy and project data. Contact links are placeholders; fill them in before deploying.
+- `src/content.ts`: all copy, project data and contact links.
 - `src/components/`: one component per page section.
 - `src/motion/engine.ts`: a single animation loop that drives every scroll- and pointer-linked effect by writing CSS custom properties. The list of hooks it looks for is at the top of the file.
 - `src/motion/gl.ts`: the two WebGL fragment shaders (hero blob, footer terrain).

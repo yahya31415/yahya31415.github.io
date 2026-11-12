@@ -1,10 +1,9 @@
 // All copy lives here. Edit this file to change what the site says.
 
 export const contact = {
-  // TODO: replace these three before deploying.
-  email: 'YOUR_EMAIL',
-  linkedin: 'https://www.linkedin.com/in/YOUR_HANDLE',
-  github: 'https://github.com/YOUR_HANDLE',
+  email: 'yahya@nationalgroupindia.com',
+  linkedin: 'https://www.linkedin.com/in/yahya31415/',
+  github: 'https://github.com/yahya31415',
 }
 
 export const stack = [
